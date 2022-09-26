@@ -23,7 +23,7 @@
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
 ![Image text](https://github.com/cumsoft/Cursorority_Pak1/blob/2d1732c4dcbd299935018e6c895b668aa454fc66/Cumsoft_Cursorority_Pak1.jpg)
 
-### Compatible With Windows Operating Systems Only!!
+### Compatible With Windows Operating Systems
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
