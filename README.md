@@ -2,7 +2,7 @@
 
 ### Cumsoft_Cursorority_Pak1 <3
 
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak1/blob/93ebb0c298eef3ee711c7a2bce5df53ea731b0a7/Cumsoft_Cursorority_Pak1READMED.png)
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
