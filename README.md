@@ -66,8 +66,8 @@ $ Save or remember the folder and path location
 > Custom cursors not only bring cohesion to the desktop but can provide visual feedback aswell.
 > Windows operating systems do allow for customization of default cursors i.e. color and thickness changes but thats the extent of modification that can be performed.
 > .Cur extensions can be utilized in Windows 11, 10, 8, 8.1, 7, or Windows XP or Vista.
-> .Cur extensions can also be implimented in HTML and other Frameworks. .Cur extensions are not available in Linux Distros however they can be converted to extensions that may or may not work with Linux
-> Furthmore, Cursors may also be known as "Mouse", "Mouse Pointers", "Pointers"
+> .Cur extensions can also be implimented in HTML and other Frameworks. .Cur extensions are not available in Linux Distros however they can be converted to extensions that may or may not work with Linux.
+> Furthmore, Cursors may also be known as "Mouse", "Mouse Pointers","Clickers", "Arrows", "Pointers"
 
 ### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴
 
