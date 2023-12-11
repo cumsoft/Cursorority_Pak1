@@ -92,13 +92,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ____________________________________________________________________________________
 ### Still got questions? send us an email: [Mail](mailto:cumsoft.subscribe@gmail.com)
 
-## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022-2023
-[Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
-
-### Latest Updates
-> Cumsoft is actively working on a "Cumsoft_Cursorority_Pak2" and has plans to release another custom cursor pack mid-2023. 
->
-> If you would like to see a certian design implimented in the next release, feel free to write our devs with suggestions @ the email listed above.
->
+## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022-2024
 > Coded with <3 by the Cumsoft Dev Team :)
-
