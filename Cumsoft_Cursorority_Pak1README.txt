@@ -2,7 +2,7 @@
 
 ### Cumsoft_Cursorority_Pak1 <3
 
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak1/blob/93ebb0c298eef3ee711c7a2bce5df53ea731b0a7/Cumsoft_Cursorority_Pak1READMED.png)
 
 # 𝘛𝘢𝘣𝘭𝘦 𝘰𝘧 𝘊𝘰𝘯𝘵𝘦𝘯𝘵𝘴
 1. [Software Info](#Software-Info)
@@ -21,9 +21,9 @@
 >
 
 ### 𝘚𝘤𝘳𝘦𝘦𝘯𝘴𝘩𝘰𝘵
-![Image text]()
+![Image text](https://github.com/cumsoft/Cursorority_Pak1/blob/2d1732c4dcbd299935018e6c895b668aa454fc66/Cumsoft_Cursorority_Pak1.jpg)
 
-### Compatible With Windows Operating Systems Only!!
+### Compatible With Windows Operating Systems
 
 ### 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯
 
@@ -66,8 +66,8 @@ $ Save or remember the folder and path location
 > Custom cursors not only bring cohesion to the desktop but can provide visual feedback aswell.
 > Windows operating systems do allow for customization of default cursors i.e. color and thickness changes but thats the extent of modification that can be performed.
 > .Cur extensions can be utilized in Windows 11, 10, 8, 8.1, 7, or Windows XP or Vista.
-> .Cur extensions can also be implimented in HTML and other Frameworks. .Cur extensions are not available in Linux Distros however they can be converted to extensions that may or may not work with Linux
-> Furthmore, Cursors may also be known as "Mouse", "Mouse Pointers", "Pointers"
+> .Cur extensions can also be implimented in HTML and other Frameworks. .Cur extensions are not available in Linux Distros however they can be converted to extensions that may or may not work with Linux.
+> Furthmore, Cursors may also be known as "Mouse", "Mouse Pointers","Clickers", "Arrows", "Pointers"
 
 ### 𝘙𝘦𝘴𝘰𝘶𝘳𝘤𝘦𝘴
 
@@ -80,7 +80,7 @@ $ Save or remember the folder and path location
 
 ## 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘓𝘪𝘤𝘦𝘯𝘴𝘦
 > The MIT License (MIT)
-Copyright © 2022 <copyright holders>
+Copyright © 2022-2023 <copyright holders>
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 >
@@ -92,12 +92,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ____________________________________________________________________________________
 ### Still got questions? send us an email: [Mail](mailto:cumsoft.subscribe@gmail.com)
 
-## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © ２０２２
-[Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
-
-### Latest Updates
-> Cumsoft is actively working on a "Cumsoft_Cursorority_Pak2" and has plans to release another custom cursor pack mid-2023. 
->
-> If you would like to see a certian design implimented in the next release, feel free to write our devs with suggestions @ the email listed above.
->
+## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022-2024
 > Coded with <3 by the Cumsoft Dev Team :)
